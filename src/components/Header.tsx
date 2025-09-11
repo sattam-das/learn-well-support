@@ -11,7 +11,7 @@ const Header = () => {
               <Brain className="h-6 w-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-foreground">MindCare</h1>
+              <h1 className="text-xl font-bold text-foreground">MindSphere</h1>
               <p className="text-sm text-muted-foreground">Student Mental Health Support</p>
             </div>
           </div>
