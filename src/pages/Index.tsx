@@ -223,7 +223,7 @@ const Index = () => {
       <footer className="py-12 bg-card border-t">
         <div className="container mx-auto px-4">
           <div className="text-center">
-            <h3 className="text-xl font-bold mb-2">MindSphere</h3>
+            <h3 className="text-xl font-bold mb-2">WellNexa</h3>
             <p className="text-muted-foreground mb-4">
               Digital Mental Health Support for Students
             </p>
